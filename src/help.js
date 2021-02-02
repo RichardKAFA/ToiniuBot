@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
-「 *Toin BOT* 」
+「 *LUCIFER BOT* 」
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
   ❏ Criador : LUCIFER
-  ❏ Fono Do BOT: https://youtube.com/channel/UCXmvKywHhTDeMh6ISmayY_g
+  ❏ Canal Dono Do BOT: https://youtube.com/channel/UCXmvKywHhTDeMh6ISmayY_g
 
 ◪ *SOBRE*
   │
