@@ -4,8 +4,8 @@ const help = (prefix) => {
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Toin
-  ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
+  ❏ Criador : LUCIFER
+  ❏ Fono Do BOT: https://youtube.com/channel/UCXmvKywHhTDeMh6ISmayY_g
 
 ◪ *SOBRE*
   │
